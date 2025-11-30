@@ -1,8 +1,8 @@
-# Assignment_2_6200_AD
-
-### File name: *stats_in_python.py*
+# Stats Analyzer
 
 ### **Author's Name: Aditya Daware**
+
+### File name: *stats_in_python.py*
 
 File description: 
 
@@ -11,14 +11,9 @@ Given
 : data_file2.txt
 : data_file3.txt
 
-**Functions used in this program**
-: def
-: len()
-: *
-: /
-: print
-: if, else
-: try, except
+#### **Code function:  
 
-#### **Code function: This code is created to calculate Mathermatical functions including Count, Valid Numbers, Average, Maximun, Minimum, variance, Standard Deviation, Median.
+* **Descriptive Statistics:** Calculates Mean, Median, Min/Max, Variance, and Standard Deviation.
+* **Data Validation:** Uses `try/except` blocks to filter out non-numeric data or corrupted entries automatically.
+* **Batch Processing:** Capable of handling multiple dataset formats (`data_file.txt`, etc.) seamlessly.
 The code will be same for all the three data files.**
